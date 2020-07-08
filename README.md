@@ -16,7 +16,6 @@ Neste repositorio vou estar postando os projetos como forma de documentar meus e
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
 
 * **Analisando os Dados do Airbnb:** 
 
